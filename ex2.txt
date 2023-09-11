@@ -1,0 +1,1 @@
+A função recursiva é chamada de 1 até a. E então soma os valores de forma acumulativa, caso saia na função principal, a soma de todos os valores de 1 até a é exibida.
